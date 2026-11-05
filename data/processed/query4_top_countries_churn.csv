@@ -1,0 +1,9 @@
+Country,total_customers,churned_customers,churn_rate_pct,total_gross_value
+Netherlands,22,16,72.73,554038.09
+United Kingdom,5350,2737,51.16,14388884.61
+Portugal,24,12,50.0,55554.78
+Spain,39,18,46.15,112564.77
+Switzerland,20,9,45.0,95035.03
+Belgium,27,11,40.74,63980.07
+France,95,34,35.79,349107.36
+Germany,106,37,34.91,424922.66

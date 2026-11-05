@@ -1,0 +1,7 @@
+Segment,total_customers,churned_customers,churn_rate_pct,total_segment_gross_value,pct_of_total_gross_value
+At Risk,1701,1701,100.0,2727681.6,15.7
+Lost,1239,1239,100.0,591827.69,3.41
+Loyal,1292,32,2.48,3850157.88,22.16
+Potential,785,17,2.17,726021.89,4.18
+Champions,757,0,0.0,9444906.76,54.36
+New Customers,104,0,0.0,33656.58,0.19
