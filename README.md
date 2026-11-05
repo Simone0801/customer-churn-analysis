@@ -292,7 +292,6 @@ Open [`power_bi/Customer_Churn_Analysis.pbix`](power_bi/Customer_Churn_Analysis.
 
 ## 15. Author
 
-* **Author:** Simone
+* **Author:** Simone Angelo Vasilescu
 * **Focus:** Data Analytics, SQL Data Transformation & Analytics, Business Intelligence, Customer Insights
-* **Event:** H-FARM Career Day Portfolio Presentation
 * **GitHub:** [https://github.com/Simone0801](https://github.com/Simone0801)
